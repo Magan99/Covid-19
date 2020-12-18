@@ -4917,3 +4917,13 @@
 .icon-zoom_out_map:before {
   content: "\e56b";
 }
+li{
+  color: #000;
+  font-style: black; 
+font-family: 'Times New Roman', Times, serif;font-size: large;}
+p {
+  color: #000;
+  font-style: black; 
+font-family: 'Times New Roman', Times, serif;font-size: large;
+}
+
